@@ -1,0 +1,40 @@
+* {
+	font-family: 'TW Cen Mt', Roboto, Arial, sans-serif;
+	background-color: lightblue;
+}
+
+.quiz { text-align: center; }
+
+.codeblock {
+	background-color: lightgray;
+	margin-right: 40%;
+	margin-left: 40%;
+	border: 1px solid lightgray;
+	border-radius: 10%;
+	color: black;
+}
+
+code {
+	background-color: lightgray;
+}
+
+.choices h2 {
+	padding: 10px;
+	background-color: lightcoral;
+	margin-left: 40%;
+	margin-right: 40%;
+	border: 5px solid lightcoral;
+	border-radius: 5%;
+	transition: 0.6 ease;
+	color: black;
+}
+
+.choices h2:hover {
+	background-color: lightgoldenrodyellow;
+	border: 5px solid lightgoldenrodyellow;
+}
+
+a {
+	text-decoration: none;
+	text-decoration-line: none;
+}
